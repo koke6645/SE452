@@ -12,6 +12,7 @@
 
     <modules>
         <module>L1-intro</module>
+        <module>L2-persistence</module>
         <module>L3-firstweb</module>
         <module>L6-mvc</module>
         <module>L7-session</module>
