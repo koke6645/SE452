@@ -1,10 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.entity;
 
+import com.mycompany.entityInterface.Order;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.*;
@@ -12,10 +8,6 @@ import javax.validation.constraints.NotNull;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-/**
- *
- * @author RedPencil
- */
 @Entity
 @Table(name = "TB_ORDER")
 @XmlRootElement
@@ -23,7 +15,7 @@ import javax.xml.bind.annotation.XmlTransient;
     @NamedQuery(name = "TbOrder.findAll", query = "SELECT t FROM TbOrder t"),
     @NamedQuery(name = "TbOrder.findByOrderid", query = "SELECT t FROM TbOrder t WHERE t.orderid = :orderid"),
     @NamedQuery(name = "TbOrder.findByOrderdate", query = "SELECT t FROM TbOrder t WHERE t.orderdate = :orderdate")})
-public class TbOrder implements Serializable {
+public class TbOrder implements Serializable, Order {
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -55,43 +47,53 @@ public class TbOrder implements Serializable {
         this.orderdate = orderdate;
     }
 
+    @Override
     public Integer getOrderid() {
         return orderid;
     }
 
+    @Override
     public void setOrderid(Integer orderid) {
         this.orderid = orderid;
     }
 
+    @Override
     public int getOrderdate() {
         return orderdate;
     }
 
+    @Override
     public void setOrderdate(int orderdate) {
         this.orderdate = orderdate;
     }
 
     @XmlTransient
+    @Override
     public Collection<TbOrderItem> getTbOrderItemCollection() {
         return tbOrderItemCollection;
     }
 
+    @Override
     public void setTbOrderItemCollection(Collection<TbOrderItem> tbOrderItemCollection) {
         this.tbOrderItemCollection = tbOrderItemCollection;
     }
 
+    @Override
     public TbCustomer getCusid() {
         return cusid;
     }
 
+    @Override
     public void setCusid(TbCustomer cusid) {
         this.cusid = cusid;
     }
 
+    @Override
     public TbStatus getOrderstatus() {
         return orderstatus;
     }
 
+    @Override
     public void setOrderstatus(TbStatus orderstatus) {
         this.orderstatus = orderstatus;
     }

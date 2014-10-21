@@ -1,10 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.entity;
 
+import com.mycompany.entityInterface.Customer;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.*;
@@ -13,10 +9,6 @@ import javax.validation.constraints.Size;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-/**
- *
- * @author RedPencil
- */
 @Entity
 @Table(name = "TB_CUSTOMER")
 @XmlRootElement
@@ -29,7 +21,7 @@ import javax.xml.bind.annotation.XmlTransient;
     @NamedQuery(name = "TbCustomer.findByCuslast", query = "SELECT t FROM TbCustomer t WHERE t.cuslast = :cuslast"),
     @NamedQuery(name = "TbCustomer.findByCusemail", query = "SELECT t FROM TbCustomer t WHERE t.cusemail = :cusemail"),
     @NamedQuery(name = "TbCustomer.findByCusphone", query = "SELECT t FROM TbCustomer t WHERE t.cusphone = :cusphone")})
-public class TbCustomer implements Serializable {
+public class TbCustomer implements Serializable, Customer {
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -91,58 +83,72 @@ public class TbCustomer implements Serializable {
         this.cusemail = cusemail;
     }
 
+    @Override
     public Integer getCusid() {
         return cusid;
     }
 
+    @Override
     public void setCusid(Integer cusid) {
         this.cusid = cusid;
     }
 
+    @Override
     public String getCusassid() {
         return cusassid;
     }
 
+    @Override
     public void setCusassid(String cusassid) {
         this.cusassid = cusassid;
     }
 
+    @Override
     public String getCuspass() {
         return cuspass;
     }
 
+    @Override
     public void setCuspass(String cuspass) {
         this.cuspass = cuspass;
     }
 
+    @Override
     public String getCusfirst() {
         return cusfirst;
     }
 
+    @Override
     public void setCusfirst(String cusfirst) {
         this.cusfirst = cusfirst;
     }
 
+    @Override
     public String getCuslast() {
         return cuslast;
     }
 
+    @Override
     public void setCuslast(String cuslast) {
         this.cuslast = cuslast;
     }
 
+    @Override
     public String getCusemail() {
         return cusemail;
     }
 
+    @Override
     public void setCusemail(String cusemail) {
         this.cusemail = cusemail;
     }
 
+    @Override
     public Integer getCusphone() {
         return cusphone;
     }
 
+    @Override
     public void setCusphone(Integer cusphone) {
         this.cusphone = cusphone;
     }
@@ -156,26 +162,32 @@ public class TbCustomer implements Serializable {
         this.tbOrderCollection = tbOrderCollection;
     }
 
+    @Override
     public TbAddress getCusshipadd() {
         return cusshipadd;
     }
 
+    @Override
     public void setCusshipadd(TbAddress cusshipadd) {
         this.cusshipadd = cusshipadd;
     }
 
+    @Override
     public TbAddress getCusbilladd() {
         return cusbilladd;
     }
 
+    @Override
     public void setCusbilladd(TbAddress cusbilladd) {
         this.cusbilladd = cusbilladd;
     }
 
+    @Override
     public TbCreditCard getCreditid() {
         return creditid;
     }
 
+    @Override
     public void setCreditid(TbCreditCard creditid) {
         this.creditid = creditid;
     }

@@ -1,10 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.entity;
 
+import com.mycompany.entityInterface.Category;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.*;
@@ -13,10 +9,6 @@ import javax.validation.constraints.Size;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-/**
- *
- * @author RedPencil
- */
 @Entity
 @Table(name = "TB_CATEGORY")
 @XmlRootElement
@@ -24,7 +16,7 @@ import javax.xml.bind.annotation.XmlTransient;
     @NamedQuery(name = "TbCategory.findAll", query = "SELECT t FROM TbCategory t"),
     @NamedQuery(name = "TbCategory.findByCatid", query = "SELECT t FROM TbCategory t WHERE t.catid = :catid"),
     @NamedQuery(name = "TbCategory.findByCatname", query = "SELECT t FROM TbCategory t WHERE t.catname = :catname")})
-public class TbCategory implements Serializable {
+public class TbCategory implements Serializable, Category {
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -51,18 +43,22 @@ public class TbCategory implements Serializable {
         this.catname = catname;
     }
 
+    @Override
     public Integer getCatid() {
         return catid;
     }
 
+    @Override
     public void setCatid(Integer catid) {
         this.catid = catid;
     }
 
+    @Override
     public String getCatname() {
         return catname;
     }
 
+    @Override
     public void setCatname(String catname) {
         this.catname = catname;
     }

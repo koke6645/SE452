@@ -1,19 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.entity;
 
+import com.mycompany.entityInterface.OrderItem;
 import java.io.Serializable;
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import javax.xml.bind.annotation.XmlRootElement;
 
-/**
- *
- * @author RedPencil
- */
 @Entity
 @Table(name = "TB_ORDER_ITEM")
 @XmlRootElement
@@ -22,7 +14,7 @@ import javax.xml.bind.annotation.XmlRootElement;
     @NamedQuery(name = "TbOrderItem.findByOrderitemid", query = "SELECT t FROM TbOrderItem t WHERE t.orderitemid = :orderitemid"),
     @NamedQuery(name = "TbOrderItem.findByPrice", query = "SELECT t FROM TbOrderItem t WHERE t.price = :price"),
     @NamedQuery(name = "TbOrderItem.findByQty", query = "SELECT t FROM TbOrderItem t WHERE t.qty = :qty")})
-public class TbOrderItem implements Serializable {
+public class TbOrderItem implements Serializable, OrderItem {
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -57,42 +49,52 @@ public class TbOrderItem implements Serializable {
         this.qty = qty;
     }
 
+    @Override
     public Integer getOrderitemid() {
         return orderitemid;
     }
 
+    @Override
     public void setOrderitemid(Integer orderitemid) {
         this.orderitemid = orderitemid;
     }
 
+    @Override
     public double getPrice() {
         return price;
     }
 
+    @Override
     public void setPrice(double price) {
         this.price = price;
     }
 
+    @Override
     public int getQty() {
         return qty;
     }
 
+    @Override
     public void setQty(int qty) {
         this.qty = qty;
     }
 
+    @Override
     public TbOrder getOrderid() {
         return orderid;
     }
 
+    @Override
     public void setOrderid(TbOrder orderid) {
         this.orderid = orderid;
     }
 
+    @Override
     public TbProduct getProid() {
         return proid;
     }
 
+    @Override
     public void setProid(TbProduct proid) {
         this.proid = proid;
     }
