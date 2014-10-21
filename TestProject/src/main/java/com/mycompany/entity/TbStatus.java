@@ -1,10 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.entity;
 
+import com.mycompany.entityInterface.Status;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.*;
@@ -13,10 +9,6 @@ import javax.validation.constraints.Size;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-/**
- *
- * @author RedPencil
- */
 @Entity
 @Table(name = "TB_STATUS")
 @XmlRootElement
@@ -24,7 +16,7 @@ import javax.xml.bind.annotation.XmlTransient;
     @NamedQuery(name = "TbStatus.findAll", query = "SELECT t FROM TbStatus t"),
     @NamedQuery(name = "TbStatus.findByStatusid", query = "SELECT t FROM TbStatus t WHERE t.statusid = :statusid"),
     @NamedQuery(name = "TbStatus.findByStatusstate", query = "SELECT t FROM TbStatus t WHERE t.statusstate = :statusstate")})
-public class TbStatus implements Serializable {
+public class TbStatus implements Serializable, Status {
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -53,18 +45,22 @@ public class TbStatus implements Serializable {
         this.statusstate = statusstate;
     }
 
+    @Override
     public Integer getStatusid() {
         return statusid;
     }
 
+    @Override
     public void setStatusid(Integer statusid) {
         this.statusid = statusid;
     }
 
+    @Override
     public String getStatusstate() {
         return statusstate;
     }
 
+    @Override
     public void setStatusstate(String statusstate) {
         this.statusstate = statusstate;
     }

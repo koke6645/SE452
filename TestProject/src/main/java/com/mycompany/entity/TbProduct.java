@@ -1,10 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.entity;
 
+import com.mycompany.entityInterface.Product;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.*;
@@ -13,10 +9,6 @@ import javax.validation.constraints.Size;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-/**
- *
- * @author RedPencil
- */
 @Entity
 @Table(name = "TB_PRODUCT")
 @XmlRootElement
@@ -26,7 +18,7 @@ import javax.xml.bind.annotation.XmlTransient;
     @NamedQuery(name = "TbProduct.findByProname", query = "SELECT t FROM TbProduct t WHERE t.proname = :proname"),
     @NamedQuery(name = "TbProduct.findByProinfo", query = "SELECT t FROM TbProduct t WHERE t.proinfo = :proinfo"),
     @NamedQuery(name = "TbProduct.findByPrice", query = "SELECT t FROM TbProduct t WHERE t.price = :price")})
-public class TbProduct implements Serializable {
+public class TbProduct implements Serializable, Product {
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -70,34 +62,42 @@ public class TbProduct implements Serializable {
         this.price = price;
     }
 
+    @Override
     public Integer getProid() {
         return proid;
     }
 
+    @Override
     public void setProid(Integer proid) {
         this.proid = proid;
     }
 
+    @Override
     public String getProname() {
         return proname;
     }
 
+    @Override
     public void setProname(String proname) {
         this.proname = proname;
     }
 
+    @Override
     public String getProinfo() {
         return proinfo;
     }
 
+    @Override
     public void setProinfo(String proinfo) {
         this.proinfo = proinfo;
     }
 
+    @Override
     public double getPrice() {
         return price;
     }
 
+    @Override
     public void setPrice(double price) {
         this.price = price;
     }
@@ -111,26 +111,32 @@ public class TbProduct implements Serializable {
         this.tbOrderItemCollection = tbOrderItemCollection;
     }
 
+    @Override
     public TbCategory getCatid() {
         return catid;
     }
 
+    @Override
     public void setCatid(TbCategory catid) {
         this.catid = catid;
     }
 
+    @Override
     public TbEmployee getLastupdate() {
         return lastupdate;
     }
 
+    @Override
     public void setLastupdate(TbEmployee lastupdate) {
         this.lastupdate = lastupdate;
     }
 
+    @Override
     public TbStatus getProstatus() {
         return prostatus;
     }
 
+    @Override
     public void setProstatus(TbStatus prostatus) {
         this.prostatus = prostatus;
     }

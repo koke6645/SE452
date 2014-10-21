@@ -1,10 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.entity;
 
+import com.mycompany.entityInterface.CreditCard;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.*;
@@ -12,10 +8,6 @@ import javax.validation.constraints.NotNull;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-/**
- *
- * @author RedPencil
- */
 @Entity
 @Table(name = "TB_CREDIT_CARD")
 @XmlRootElement
@@ -24,7 +16,7 @@ import javax.xml.bind.annotation.XmlTransient;
     @NamedQuery(name = "TbCreditCard.findByCreditid", query = "SELECT t FROM TbCreditCard t WHERE t.creditid = :creditid"),
     @NamedQuery(name = "TbCreditCard.findByCardnumber", query = "SELECT t FROM TbCreditCard t WHERE t.cardnumber = :cardnumber"),
     @NamedQuery(name = "TbCreditCard.findByCardexpire", query = "SELECT t FROM TbCreditCard t WHERE t.cardexpire = :cardexpire")})
-public class TbCreditCard implements Serializable {
+public class TbCreditCard implements Serializable, CreditCard {
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -55,26 +47,32 @@ public class TbCreditCard implements Serializable {
         this.cardexpire = cardexpire;
     }
 
+    @Override
     public Integer getCreditid() {
         return creditid;
     }
 
+    @Override
     public void setCreditid(Integer creditid) {
         this.creditid = creditid;
     }
 
+    @Override
     public int getCardnumber() {
         return cardnumber;
     }
 
+    @Override
     public void setCardnumber(int cardnumber) {
         this.cardnumber = cardnumber;
     }
 
+    @Override
     public int getCardexpire() {
         return cardexpire;
     }
 
+    @Override
     public void setCardexpire(int cardexpire) {
         this.cardexpire = cardexpire;
     }

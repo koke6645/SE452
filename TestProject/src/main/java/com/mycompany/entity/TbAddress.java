@@ -1,10 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.entity;
 
+import com.mycompany.entityInterface.Address;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.*;
@@ -13,10 +9,6 @@ import javax.validation.constraints.Size;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-/**
- *
- * @author RedPencil
- */
 @Entity
 @Table(name = "TB_ADDRESS")
 @XmlRootElement
@@ -26,7 +18,7 @@ import javax.xml.bind.annotation.XmlTransient;
     @NamedQuery(name = "TbAddress.findByAddline1", query = "SELECT t FROM TbAddress t WHERE t.addline1 = :addline1"),
     @NamedQuery(name = "TbAddress.findByAddstate", query = "SELECT t FROM TbAddress t WHERE t.addstate = :addstate"),
     @NamedQuery(name = "TbAddress.findByAddzip", query = "SELECT t FROM TbAddress t WHERE t.addzip = :addzip")})
-public class TbAddress implements Serializable {
+public class TbAddress implements Serializable, Address {
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -49,8 +41,6 @@ public class TbAddress implements Serializable {
     private int addzip;
     @OneToMany(cascade = CascadeType.ALL, mappedBy = "cusshipadd")
     private Collection<TbCustomer> tbCustomerCollection;
-    @OneToMany(cascade = CascadeType.ALL, mappedBy = "cusbilladd")
-    private Collection<TbCustomer> tbCustomerCollection1;
 
     public TbAddress() {
     }
@@ -66,34 +56,42 @@ public class TbAddress implements Serializable {
         this.addzip = addzip;
     }
 
+    @Override
     public Integer getAddid() {
         return addid;
     }
 
+    @Override
     public void setAddid(Integer addid) {
         this.addid = addid;
     }
 
+    @Override
     public String getAddline1() {
         return addline1;
     }
 
+    @Override
     public void setAddline1(String addline1) {
         this.addline1 = addline1;
     }
 
+    @Override
     public String getAddstate() {
         return addstate;
     }
 
+    @Override
     public void setAddstate(String addstate) {
         this.addstate = addstate;
     }
 
+    @Override
     public int getAddzip() {
         return addzip;
     }
 
+    @Override
     public void setAddzip(int addzip) {
         this.addzip = addzip;
     }
@@ -105,15 +103,6 @@ public class TbAddress implements Serializable {
 
     public void setTbCustomerCollection(Collection<TbCustomer> tbCustomerCollection) {
         this.tbCustomerCollection = tbCustomerCollection;
-    }
-
-    @XmlTransient
-    public Collection<TbCustomer> getTbCustomerCollection1() {
-        return tbCustomerCollection1;
-    }
-
-    public void setTbCustomerCollection1(Collection<TbCustomer> tbCustomerCollection1) {
-        this.tbCustomerCollection1 = tbCustomerCollection1;
     }
 
     @Override

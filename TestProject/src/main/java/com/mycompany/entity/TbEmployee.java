@@ -1,10 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.entity;
 
+import com.mycompany.entityInterface.Employee;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.*;
@@ -13,10 +9,6 @@ import javax.validation.constraints.Size;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-/**
- *
- * @author RedPencil
- */
 @Entity
 @Table(name = "TB_EMPLOYEE")
 @XmlRootElement
@@ -29,7 +21,7 @@ import javax.xml.bind.annotation.XmlTransient;
     @NamedQuery(name = "TbEmployee.findByEmplast", query = "SELECT t FROM TbEmployee t WHERE t.emplast = :emplast"),
     @NamedQuery(name = "TbEmployee.findByEmpemail", query = "SELECT t FROM TbEmployee t WHERE t.empemail = :empemail"),
     @NamedQuery(name = "TbEmployee.findByEmpphone", query = "SELECT t FROM TbEmployee t WHERE t.empphone = :empphone")})
-public class TbEmployee implements Serializable {
+public class TbEmployee implements Serializable, Employee {
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -82,58 +74,72 @@ public class TbEmployee implements Serializable {
         this.empemail = empemail;
     }
 
+    @Override
     public Integer getEmpid() {
         return empid;
     }
 
+    @Override
     public void setEmpid(Integer empid) {
         this.empid = empid;
     }
 
+    @Override
     public String getEmpassid() {
         return empassid;
     }
 
+    @Override
     public void setEmpassid(String empassid) {
         this.empassid = empassid;
     }
 
+    @Override
     public String getEmppass() {
         return emppass;
     }
 
+    @Override
     public void setEmppass(String emppass) {
         this.emppass = emppass;
     }
 
+    @Override
     public String getEmpfirst() {
         return empfirst;
     }
 
+    @Override
     public void setEmpfirst(String empfirst) {
         this.empfirst = empfirst;
     }
 
+    @Override
     public String getEmplast() {
         return emplast;
     }
 
+    @Override
     public void setEmplast(String emplast) {
         this.emplast = emplast;
     }
 
+    @Override
     public String getEmpemail() {
         return empemail;
     }
 
+    @Override
     public void setEmpemail(String empemail) {
         this.empemail = empemail;
     }
 
+    @Override
     public Integer getEmpphone() {
         return empphone;
     }
 
+    @Override
     public void setEmpphone(Integer empphone) {
         this.empphone = empphone;
     }
