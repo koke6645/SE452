@@ -14,9 +14,9 @@
     
     TbCategory cat1 = new TbCategory();
     
-    EntityManager ent1;
-    
-    ent1.persist(addr1);
+    //EntityManager ent1 = new EntityManager("jdbc:mysql://localhost/ao_test", "user", "password");
+    //ent1.persist(addr1);
+    //EntityManager.persist(addr1);
     
 %>
 
