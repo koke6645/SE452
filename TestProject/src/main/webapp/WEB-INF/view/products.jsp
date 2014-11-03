@@ -15,6 +15,67 @@
             </div>
             
             <div id="itemList">
-                test
+                <p class="smallText">Product lists</p>
+                <table id="productTable">
+                    <tr>
+                        <td class="lightBlue">
+                            <img src="#" alt="product image">
+                        </td>
+                        <td class="lightBlue">
+                            [ product name ]
+                        </td>
+                        <td class="lightBlue">[ price ]</td>
+                        <td class="lightBlue">
+                            <form action="#" method="post">
+                                <input type="submit" value="add to cart">
+                            </form>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td class="white">
+                            <img src="#" alt="product image">
+                        </td>
+                        <td class="white">
+                            [ product name ]
+                        </td>
+                        <td class="white">[ price ]</td>
+                        <td class="white">
+                            <form action="#" method="post">
+                                <input type="submit" value="add to cart">
+                            </form>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td class="lightBlue">
+                            <img src="#" alt="product image">
+                        </td>
+                        <td class="lightBlue">
+                            [ product name ]
+                        </td>
+                        <td class="lightBlue">[ price ]</td>
+                        <td class="lightBlue">
+                            <form action="#" method="post">
+                                <input type="submit" value="add to cart">
+                            </form>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td class="white">
+                            <img src="#" alt="product image">
+                        </td>
+                        <td class="white">
+                            [ product name ]
+                        </td>
+                        <td class="white">[ price ]</td>
+                        <td class="white">
+                            <form action="#" method="post">
+                                <input type="submit" value="add to cart">
+                            </form>
+                        </td>
+                    </tr>
+                </table>
             </div>
             

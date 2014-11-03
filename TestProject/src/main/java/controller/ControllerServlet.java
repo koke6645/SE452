@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletResponse;
 
 @WebServlet(name="ControllerServlet", 
         loadOnStartup = 1,
-        urlPatterns={"/products"})
+        urlPatterns={"/products", "/cart"})
 public class ControllerServlet extends HttpServlet {
 
     /**
@@ -43,7 +43,7 @@ public class ControllerServlet extends HttpServlet {
             // TODO: Implement category request
 
         // if cart page is requested
-        } else if (userPath.equals("/viewCart")) {
+        } else if (userPath.equals("/cart")) {
             // TODO: Implement cart page request
 
             userPath = "/cart";

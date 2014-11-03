@@ -23,8 +23,21 @@ hr {
     width: 95%;
 }
 
+table {
+    margin: 0 20px 20px;
+    border-spacing: 0;
+    text-align: center;
+    border: solid 1px #f5eabe;
+}
+
 /* general styles */
 #main { background: white }
+
+.lightBlue { background-color: #edf8f7 }
+
+.white { background-color: #fff }
+
+.smallText { font-size: small }
 
 /* header styles */
 #header {
@@ -157,8 +170,13 @@ hr {
 }
 
 #itemList {
-    height: 550px;
     width: 770px;
     background: #ddd;
     float: left;
 }
+
+#productTable { width: 730px }
+
+#productTable tr { height: 150px }
+
+#productTable td { width: 200px }
