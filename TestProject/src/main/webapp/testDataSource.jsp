@@ -15,7 +15,7 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-    <sql:query var="result" dataSource="jdbc/testProject">
+    <sql:query var="result" dataSource="jdbc/db1">
         select * from "PUBLIC".TB_PRODUCT;
             
     </sql:query>
