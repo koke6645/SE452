@@ -1,6 +1,6 @@
 package com.mycompany.entity;
 
-import com.mycompany.entityInterface.Order;
+import com.mycompany.entity.Interface.Order;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.*;

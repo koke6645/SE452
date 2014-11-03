@@ -1,6 +1,6 @@
 package com.mycompany.entity;
 
-import com.mycompany.entityInterface.Address;
+import com.mycompany.entity.Interface.Address;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.*;

@@ -1,4 +1,4 @@
-package com.mycompany.entityInterface;
+package com.mycompany.entity.Interface;
 
 import com.mycompany.entity.TbAddress;
 import com.mycompany.entity.TbCreditCard;

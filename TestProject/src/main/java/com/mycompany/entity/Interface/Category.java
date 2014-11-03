@@ -1,4 +1,4 @@
-package com.mycompany.entityInterface;
+package com.mycompany.entity.Interface;
 
 public interface Category {
 

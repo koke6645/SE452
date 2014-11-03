@@ -1,4 +1,4 @@
-package com.mycompany.entityInterface;
+package com.mycompany.entity.Interface;
 
 import com.mycompany.entity.TbCategory;
 import com.mycompany.entity.TbEmployee;

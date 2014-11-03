@@ -1,6 +1,6 @@
 package com.mycompany.entity;
 
-import com.mycompany.entityInterface.OrderItem;
+import com.mycompany.entity.Interface.OrderItem;
 import java.io.Serializable;
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;

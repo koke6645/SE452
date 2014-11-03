@@ -1,4 +1,4 @@
-package com.mycompany.entityInterface;
+package com.mycompany.entity.Interface;
 
 import com.mycompany.entity.TbOrder;
 import com.mycompany.entity.TbProduct;
