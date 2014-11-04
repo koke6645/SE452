@@ -1,13 +1,38 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-   "http://www.w3.org/TR/html4/loose.dtd">
+<%-- 
+    Document   : index
+    Created on : Nov 3, 2014, 5:58:06 PM
+    Author     : RedPencil
+--%>
 
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
-    </head>
-    <body>
-        <h1>Hello World!</h1>
-    </body>
-</html>
+            
+            <div id="newArrive">
+                <h2>New arrive</h2>
+                <div class="itemBox">
+                    <a href="#">
+                        <span class="itemName">item 1</span>
+                    </a>
+                </div>
+                <div class="itemBox">
+                    <a href="#">
+                        <span class="itemName">item 2</span>
+                    </a>
+                </div>
+                <div class="itemBox">
+                    <a href="#">
+                        <span class="itemName">item 3</span>
+                    </a>
+                </div>
+                <div class="itemBox">
+                    <a href="#">
+                        <span class="itemName">item 4</span>
+                    </a>
+                </div>
+            </div>
+
+            <div id="announce">
+                <div id="announceText">
+                    <h2>Announcement</h2>
+                    <p>[ announcement text ]</p>
+                    productImagePath: ${initParam.productImagePath}
+                </div>
+            </div>
