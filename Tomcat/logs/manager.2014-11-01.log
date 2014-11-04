@@ -1,0 +1,1820 @@
+Nov 01, 2014 4:36:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Nov 01, 2014 4:36:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Nov 01, 2014 4:36:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 4:36:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 4:36:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 4:36:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1892759242098631641.xml'
+Nov 01, 2014 4:36:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 4:43:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 4:43:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 4:43:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 4:43:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 4:43:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5262813884168547851.xml'
+Nov 01, 2014 4:43:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:02:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:02:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:02:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:02:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:02:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1496318455569702850.xml'
+Nov 01, 2014 5:02:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:03:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:03:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:03:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:03:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:03:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6874714121086658494.xml'
+Nov 01, 2014 5:04:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:04:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:04:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:04:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:04:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:04:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3193166577506193701.xml'
+Nov 01, 2014 5:04:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:05:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:05:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:05:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:05:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:05:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5978496994822684124.xml'
+Nov 01, 2014 5:05:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:06:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:06:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:06:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:06:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:06:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3049366041282598334.xml'
+Nov 01, 2014 5:06:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:07:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:07:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:07:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:07:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:07:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3849623864718846928.xml'
+Nov 01, 2014 5:07:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:08:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:08:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:08:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:08:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:08:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context604217191384634277.xml'
+Nov 01, 2014 5:08:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:09:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:09:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:09:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:09:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:09:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3358164065095431497.xml'
+Nov 01, 2014 5:09:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:10:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:10:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:10:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:10:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:10:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8911560824797195339.xml'
+Nov 01, 2014 5:10:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:11:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:11:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:11:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:11:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:11:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1694597415020114264.xml'
+Nov 01, 2014 5:11:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:16:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:16:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:16:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:16:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:16:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2365861809857971700.xml'
+Nov 01, 2014 5:16:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:26:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:26:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:26:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:26:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:26:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2635257481220573446.xml'
+Nov 01, 2014 5:26:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:29:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:29:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:29:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:29:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:29:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4915915192458542715.xml'
+Nov 01, 2014 5:29:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:31:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:31:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:31:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:31:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:31:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1649488588504985275.xml'
+Nov 01, 2014 5:31:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:31:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:31:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:31:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:31:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:31:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context453079808108558372.xml'
+Nov 01, 2014 5:31:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:32:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:32:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:32:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:32:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:32:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6789991424295078599.xml'
+Nov 01, 2014 5:32:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:38:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:38:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:38:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:38:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:38:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context905699137949876027.xml'
+Nov 01, 2014 5:38:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:43:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:43:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:43:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:43:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:43:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7125998747616610570.xml'
+Nov 01, 2014 5:43:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:44:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:44:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:44:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:44:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:44:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context108216311862091657.xml'
+Nov 01, 2014 5:44:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:45:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:45:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:45:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:45:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7684788657570575270.xml'
+Nov 01, 2014 5:45:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:52:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:52:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:52:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:52:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:52:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4493975273036403411.xml'
+Nov 01, 2014 5:52:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:53:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:53:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:53:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:53:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:53:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6293070247057381413.xml'
+Nov 01, 2014 5:53:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:55:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:55:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:55:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:55:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:55:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2631669552384559669.xml'
+Nov 01, 2014 5:55:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:55:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:55:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:55:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:55:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:56:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8288584326556218475.xml'
+Nov 01, 2014 5:56:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:56:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:56:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:56:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:56:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:56:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8128917912803300309.xml'
+Nov 01, 2014 5:56:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:57:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:57:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:57:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:57:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:57:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6664301438493460768.xml'
+Nov 01, 2014 5:57:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:59:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:59:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:59:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:59:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:59:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2496972684606493026.xml'
+Nov 01, 2014 5:59:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 5:59:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:59:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:59:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 5:59:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 5:59:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5169395281382068661.xml'
+Nov 01, 2014 5:59:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:05:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:05:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:05:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:05:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:06:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2003720471693520924.xml'
+Nov 01, 2014 6:06:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:07:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:07:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:07:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:07:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:07:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7107814932685177250.xml'
+Nov 01, 2014 6:07:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:15:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:15:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:15:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:15:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:15:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3013130010799390080.xml'
+Nov 01, 2014 6:15:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:16:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:16:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:16:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:16:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:16:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context249415497402682710.xml'
+Nov 01, 2014 6:16:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:18:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:18:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:18:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:18:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:18:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1494874379360076557.xml'
+Nov 01, 2014 6:18:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:24:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:24:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:24:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:24:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:24:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3975574025009348599.xml'
+Nov 01, 2014 6:24:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:25:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:25:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:25:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:25:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:25:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3380574639951552506.xml'
+Nov 01, 2014 6:25:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:25:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:25:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:25:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:25:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:26:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7809516347178670930.xml'
+Nov 01, 2014 6:26:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:26:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:26:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:26:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:26:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:26:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6446397899900940598.xml'
+Nov 01, 2014 6:26:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:27:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:27:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:27:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:27:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:27:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7734090618638555239.xml'
+Nov 01, 2014 6:27:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:28:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:28:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:28:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:28:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:28:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2086356739048554587.xml'
+Nov 01, 2014 6:28:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:28:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:28:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:28:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:28:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:28:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8811195689630342856.xml'
+Nov 01, 2014 6:28:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:28:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:28:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:28:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:28:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:28:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1757938222882345587.xml'
+Nov 01, 2014 6:28:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:29:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:29:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:29:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:29:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:29:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3607543491741967358.xml'
+Nov 01, 2014 6:29:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:30:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:30:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:30:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:30:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:30:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8990604958929835966.xml'
+Nov 01, 2014 6:30:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:31:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:31:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:31:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:31:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:31:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7517671968227485563.xml'
+Nov 01, 2014 6:31:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:44:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:44:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:44:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:44:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:44:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5393119952851942841.xml'
+Nov 01, 2014 6:44:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:44:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:44:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:44:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:44:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:44:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context768079318452873197.xml'
+Nov 01, 2014 6:44:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:45:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:45:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:45:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:45:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:45:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6616568141625103650.xml'
+Nov 01, 2014 6:45:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:46:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:46:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:46:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:46:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:46:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5013572709829868801.xml'
+Nov 01, 2014 6:46:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:46:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:46:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:46:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:46:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:46:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6868876721582185092.xml'
+Nov 01, 2014 6:46:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:46:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:46:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:46:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:46:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:46:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7883958285518773875.xml'
+Nov 01, 2014 6:47:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:47:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:47:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:47:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:47:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:47:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context66547787633395461.xml'
+Nov 01, 2014 6:47:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:47:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:47:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:47:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:47:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6583578470174603981.xml'
+Nov 01, 2014 6:47:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:48:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:48:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:48:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:48:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:48:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8508880416068070661.xml'
+Nov 01, 2014 6:48:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:49:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:49:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:49:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:49:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:49:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3046754480857855867.xml'
+Nov 01, 2014 6:49:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:51:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:51:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:51:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:51:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3594851683712899313.xml'
+Nov 01, 2014 6:51:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 6:58:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:58:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:58:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 6:58:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 6:58:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5179768533178272132.xml'
+Nov 01, 2014 6:58:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:03:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:03:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:03:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:03:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:03:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2054233099247247988.xml'
+Nov 01, 2014 7:03:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:05:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:05:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:05:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:05:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:05:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1453320270193159785.xml'
+Nov 01, 2014 7:05:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:06:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:06:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:06:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:06:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:06:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4926218631154122389.xml'
+Nov 01, 2014 7:06:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:07:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:07:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:07:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:07:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:07:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context976751059949915770.xml'
+Nov 01, 2014 7:07:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:07:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:07:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:07:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:07:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:07:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3370899848098457237.xml'
+Nov 01, 2014 7:07:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:09:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:09:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:09:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:09:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:09:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context492449534937581134.xml'
+Nov 01, 2014 7:09:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:10:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:10:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:10:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:10:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:10:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7319625776927814383.xml'
+Nov 01, 2014 7:10:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:10:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:10:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:10:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:10:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:10:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8396795808829084405.xml'
+Nov 01, 2014 7:10:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:11:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:11:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:11:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:11:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:11:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6531104480870724696.xml'
+Nov 01, 2014 7:11:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:11:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:11:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:11:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:11:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:11:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context698682480190531621.xml'
+Nov 01, 2014 7:11:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:12:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:12:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:12:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:12:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:12:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3838629415038006047.xml'
+Nov 01, 2014 7:12:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:12:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:12:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:12:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:12:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:12:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2122127847807369755.xml'
+Nov 01, 2014 7:12:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:12:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:12:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:12:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:12:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:12:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2492072196046125023.xml'
+Nov 01, 2014 7:12:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:13:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:13:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:13:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:13:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7493419619015753542.xml'
+Nov 01, 2014 7:13:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:14:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:14:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:14:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:14:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:14:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6626414326204825453.xml'
+Nov 01, 2014 7:14:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:14:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:14:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:14:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:14:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:14:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7882453402318712537.xml'
+Nov 01, 2014 7:14:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:15:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:15:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:15:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:15:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:15:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4503039786892968872.xml'
+Nov 01, 2014 7:15:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:15:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:15:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:15:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:15:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:15:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3585679688534423350.xml'
+Nov 01, 2014 7:15:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:30:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:30:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:30:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:30:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:30:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context9003432705619783452.xml'
+Nov 01, 2014 7:30:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:31:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:31:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:31:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:31:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:31:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1332445875190187686.xml'
+Nov 01, 2014 7:31:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:31:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:31:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:31:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:31:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:31:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6474652024734035391.xml'
+Nov 01, 2014 7:31:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:33:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:33:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:33:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:33:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:33:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6759147233109687531.xml'
+Nov 01, 2014 7:33:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:33:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:33:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:33:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:33:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:33:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8725213409102089516.xml'
+Nov 01, 2014 7:33:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:36:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:36:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:36:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:36:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:36:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3792424628216766590.xml'
+Nov 01, 2014 7:36:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:36:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1667185621556371945.xml'
+Nov 01, 2014 7:36:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:36:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:36:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:36:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:36:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:36:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1963745920779885620.xml'
+Nov 01, 2014 7:36:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:37:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:37:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:37:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:37:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:37:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4959072125092632035.xml'
+Nov 01, 2014 7:37:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:37:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:37:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:37:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:37:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:37:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8458208985390461189.xml'
+Nov 01, 2014 7:37:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:38:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:38:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:38:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:38:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:38:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8155387106856024564.xml'
+Nov 01, 2014 7:38:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:38:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:38:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:38:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:38:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:38:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context966730120277707796.xml'
+Nov 01, 2014 7:38:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:38:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:38:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:38:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:38:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:38:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context123846887954312506.xml'
+Nov 01, 2014 7:38:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:39:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:39:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:39:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:39:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:39:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1802677110348934269.xml'
+Nov 01, 2014 7:39:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:39:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:39:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:39:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:39:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:39:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context206368793957703312.xml'
+Nov 01, 2014 7:39:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:40:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:40:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:40:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:40:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:40:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context297284978387401335.xml'
+Nov 01, 2014 7:40:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:40:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:40:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:40:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:40:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:40:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7903211914669343485.xml'
+Nov 01, 2014 7:40:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:44:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:44:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:44:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:44:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:44:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context723082527012720878.xml'
+Nov 01, 2014 7:44:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:50:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:50:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:50:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:50:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:50:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3231096314535409825.xml'
+Nov 01, 2014 7:50:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:51:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:51:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:51:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:51:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:51:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8702910315956123233.xml'
+Nov 01, 2014 7:51:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:52:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:52:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:52:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:52:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:52:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3400763266770689354.xml'
+Nov 01, 2014 7:52:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:52:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:52:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:52:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:52:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:52:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5382940308890738005.xml'
+Nov 01, 2014 7:52:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:53:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:53:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:53:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:53:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:53:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2326257110807941037.xml'
+Nov 01, 2014 7:53:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:54:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:54:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context9096746753172256051.xml'
+Nov 01, 2014 7:54:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:54:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:54:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2396097169008733987.xml'
+Nov 01, 2014 7:54:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:54:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:54:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context9133157479292059457.xml'
+Nov 01, 2014 7:54:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:54:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:54:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:54:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6998703373140737376.xml'
+Nov 01, 2014 7:54:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:55:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:55:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:55:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:55:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:55:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4503244969078811994.xml'
+Nov 01, 2014 7:55:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:55:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:55:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:55:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:55:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:55:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5672948959280207035.xml'
+Nov 01, 2014 7:55:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:55:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:55:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:55:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:55:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:55:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3872408159317414965.xml'
+Nov 01, 2014 7:55:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:56:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:56:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:56:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:56:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:56:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5065308284472820441.xml'
+Nov 01, 2014 7:56:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:56:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:56:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:56:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:56:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:56:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4178909845341874783.xml'
+Nov 01, 2014 7:56:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 7:57:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:57:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:57:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 7:57:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 7:57:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4718457823722071975.xml'
+Nov 01, 2014 7:57:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 8:01:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:01:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:01:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 8:01:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:01:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8603112107122363832.xml'
+Nov 01, 2014 8:01:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 8:11:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:36:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:36:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:36:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 8:36:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:36:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2139852110350105845.xml'
+Nov 01, 2014 8:36:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 8:38:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:38:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:38:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 8:38:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:39:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6411641005753923520.xml'
+Nov 01, 2014 8:39:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 8:40:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:40:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:40:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 8:40:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:40:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1767916799026940549.xml'
+Nov 01, 2014 8:40:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 8:41:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:41:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:41:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:41:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 8:41:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2637412575755923942.xml'
+Nov 01, 2014 8:41:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 8:48:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:48:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:48:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 8:48:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:48:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7652381305000417165.xml'
+Nov 01, 2014 8:48:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 8:49:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:49:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:49:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 8:49:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:49:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2954366467589382071.xml'
+Nov 01, 2014 8:49:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 8:50:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:50:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:50:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 8:50:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 8:50:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8789538907854813417.xml'
+Nov 01, 2014 8:50:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:06:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:06:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:06:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:06:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:06:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8102796652502976119.xml'
+Nov 01, 2014 9:06:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:07:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:07:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:07:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:07:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:07:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3342071439796157012.xml'
+Nov 01, 2014 9:07:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:08:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:08:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:08:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:08:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:08:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8658889259712751993.xml'
+Nov 01, 2014 9:08:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:08:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:08:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:08:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:08:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:08:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7941576281690096571.xml'
+Nov 01, 2014 9:08:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:09:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:09:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:09:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:09:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:09:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3092373572114036303.xml'
+Nov 01, 2014 9:09:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:09:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:09:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:09:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:09:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:09:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4109219473197765102.xml'
+Nov 01, 2014 9:09:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:11:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:11:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:11:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:11:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:11:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4669769106164660915.xml'
+Nov 01, 2014 9:11:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:11:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:11:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:11:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:11:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:11:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context3769829198885081889.xml'
+Nov 01, 2014 9:11:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:12:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:12:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:12:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:12:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:12:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5828398388299004174.xml'
+Nov 01, 2014 9:12:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:12:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:12:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:12:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:12:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:12:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5086662634364075988.xml'
+Nov 01, 2014 9:12:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:12:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:12:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:12:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:12:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:12:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7154210707971473269.xml'
+Nov 01, 2014 9:12:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:13:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:13:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:13:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:13:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:13:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4513105684683964018.xml'
+Nov 01, 2014 9:13:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:15:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:15:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:15:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:15:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:15:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6052642082801718521.xml'
+Nov 01, 2014 9:15:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:15:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:15:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:15:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:15:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:15:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6549512952417783909.xml'
+Nov 01, 2014 9:15:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:16:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:16:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:16:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:16:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:16:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6519784112917780578.xml'
+Nov 01, 2014 9:16:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:20:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:20:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:20:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:20:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:20:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context667928049401296786.xml'
+Nov 01, 2014 9:20:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:21:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:21:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:21:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:21:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:21:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8515111294615026057.xml'
+Nov 01, 2014 9:21:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:24:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:24:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:24:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:24:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:24:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context8089202947785034060.xml'
+Nov 01, 2014 9:24:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:26:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:26:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:26:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:26:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:26:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context1220439610594792027.xml'
+Nov 01, 2014 9:26:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:32:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:32:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:32:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:32:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:32:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2216471665628329825.xml'
+Nov 01, 2014 9:32:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:33:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:33:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:33:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:33:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:33:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5356610991824273643.xml'
+Nov 01, 2014 9:33:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:36:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:36:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:36:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:36:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:36:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2837807012290518357.xml'
+Nov 01, 2014 9:36:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:38:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:38:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:38:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:38:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:38:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context660389376737619058.xml'
+Nov 01, 2014 9:38:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:44:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:44:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:44:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:44:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:44:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context9186227849918027220.xml'
+Nov 01, 2014 9:44:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:48:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:48:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:48:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:48:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:48:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context2868402689579508159.xml'
+Nov 01, 2014 9:48:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:53:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:53:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:53:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:53:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:53:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4316966130121700069.xml'
+Nov 01, 2014 9:53:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:56:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:56:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:56:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:56:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:56:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context650533417154037507.xml'
+Nov 01, 2014 9:56:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:57:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:57:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:57:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:57:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:57:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4641487253795995028.xml'
+Nov 01, 2014 9:57:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:58:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:58:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:58:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:58:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:58:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7522801498472928779.xml'
+Nov 01, 2014 9:58:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:59:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:59:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:59:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:59:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:59:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4623801951541983774.xml'
+Nov 01, 2014 9:59:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 9:59:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:59:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:59:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 9:59:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 9:59:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6369440668462774253.xml'
+Nov 01, 2014 9:59:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 10:00:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 10:00:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context7354194952921637140.xml'
+Nov 01, 2014 10:00:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 10:00:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 10:00:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context6132574643190981375.xml'
+Nov 01, 2014 10:00:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'
+Nov 01, 2014 10:00:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Nov 01, 2014 10:00:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Nov 01, 2014 10:00:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 10:00:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 01, 2014 10:00:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TestProject'
+Nov 01, 2014 10:00:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context5983405325954416425.xml'
+Nov 01, 2014 10:00:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/9b/qc28fnqs6gx24c5rzvf2br580000gn/T/context4986735572662878484.xml'
+Nov 01, 2014 10:00:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TestProject'

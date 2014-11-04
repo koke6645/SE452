@@ -1,0 +1,276 @@
+Sep 29, 2014 12:10:58 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Applications/NetBeans/NetBeans 8.0.1.app/Contents/Resources/NetBeans/webcommon/bin::/Users/RedPencil/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Sep 29, 2014 12:10:59 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 12:10:59 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 12:10:59 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 943 ms
+Sep 29, 2014 12:10:59 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Sep 29, 2014 12:10:59 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.55
+Sep 29, 2014 12:10:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/docs
+Sep 29, 2014 12:11:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/docs has finished in 816 ms
+Sep 29, 2014 12:11:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/examples
+Sep 29, 2014 12:11:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/examples has finished in 721 ms
+Sep 29, 2014 12:11:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/host-manager
+Sep 29, 2014 12:11:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/host-manager has finished in 117 ms
+Sep 29, 2014 12:11:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/manager
+Sep 29, 2014 12:11:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/manager has finished in 227 ms
+Sep 29, 2014 12:11:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/ROOT
+Sep 29, 2014 12:11:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/ROOT has finished in 163 ms
+Sep 29, 2014 12:11:01 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 12:11:01 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 12:11:01 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2386 ms
+Sep 29, 2014 12:42:46 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Sep 29, 2014 12:42:46 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 12:42:46 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 12:42:46 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Sep 29, 2014 12:42:46 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 12:42:46 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 12:42:46 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 12:42:46 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 1:01:37 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Applications/NetBeans/NetBeans 8.0.1.app/Contents/Resources/NetBeans/webcommon/bin::/Users/RedPencil/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Sep 29, 2014 1:01:38 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 1:01:38 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 1:01:38 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 904 ms
+Sep 29, 2014 1:01:38 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Sep 29, 2014 1:01:38 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.55
+Sep 29, 2014 1:01:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/docs
+Sep 29, 2014 1:01:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/docs has finished in 526 ms
+Sep 29, 2014 1:01:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/examples
+Sep 29, 2014 1:01:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/examples has finished in 666 ms
+Sep 29, 2014 1:01:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/host-manager
+Sep 29, 2014 1:01:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/host-manager has finished in 141 ms
+Sep 29, 2014 1:01:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/manager
+Sep 29, 2014 1:01:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/manager has finished in 120 ms
+Sep 29, 2014 1:01:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/ROOT
+Sep 29, 2014 1:01:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/ROOT has finished in 75 ms
+Sep 29, 2014 1:01:39 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 1:01:39 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 1:01:39 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1710 ms
+Sep 29, 2014 1:01:40 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /Users/RedPencil/Dropbox/SE452/Tomcat/conf/Catalina/localhost/Test1.xml
+Sep 29, 2014 1:01:40 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor /Users/RedPencil/Dropbox/SE452/Tomcat/conf/Catalina/localhost/Test1.xml has finished in 197 ms
+Sep 29, 2014 1:01:40 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Test1]] after start() had already been called. The second call will be ignored.
+Sep 29, 2014 1:03:25 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] has started
+Sep 29, 2014 1:03:26 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] is completed
+Sep 29, 2014 1:04:55 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] has started
+Sep 29, 2014 1:04:56 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] is completed
+Sep 29, 2014 1:05:01 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] has started
+Sep 29, 2014 1:05:02 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] is completed
+Sep 29, 2014 1:05:19 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/Test1]
+Sep 29, 2014 1:05:19 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /Users/RedPencil/Dropbox/SE452/Tomcat/conf/Catalina/localhost/Test1.xml
+Sep 29, 2014 1:05:19 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor /Users/RedPencil/Dropbox/SE452/Tomcat/conf/Catalina/localhost/Test1.xml has finished in 68 ms
+Sep 29, 2014 1:05:19 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Test1]] after start() had already been called. The second call will be ignored.
+Sep 29, 2014 1:12:06 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] has started
+Sep 29, 2014 1:12:07 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] is completed
+Sep 29, 2014 1:12:07 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] has started
+Sep 29, 2014 1:12:08 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] is completed
+Sep 29, 2014 1:14:48 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] has started
+Sep 29, 2014 1:14:49 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] is completed
+Sep 29, 2014 1:15:01 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] has started
+Sep 29, 2014 1:15:02 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Test1] is completed
+Sep 29, 2014 1:15:18 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/Test1]
+Sep 29, 2014 1:15:18 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /Users/RedPencil/Dropbox/SE452/Tomcat/conf/Catalina/localhost/Test1.xml
+Sep 29, 2014 1:15:18 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor /Users/RedPencil/Dropbox/SE452/Tomcat/conf/Catalina/localhost/Test1.xml has finished in 189 ms
+Sep 29, 2014 1:15:18 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Test1]] after start() had already been called. The second call will be ignored.
+Sep 29, 2014 1:15:24 PM com.srvl2 processRequest
+SEVERE: null
+java.sql.SQLException: No suitable driver found for jdbc:hsqldb:hsql://localhost/mydb
+	at java.sql.DriverManager.getConnection(DriverManager.java:689)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.srvl2.processRequest(srvl2.java:54)
+	at com.srvl2.doGet(srvl2.java:82)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1070)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:314)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+Sep 29, 2014 1:15:45 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Sep 29, 2014 1:15:45 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 1:15:45 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 1:15:45 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Sep 29, 2014 1:15:45 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 1:15:45 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 1:15:45 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 1:15:45 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 1:15:48 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Applications/NetBeans/NetBeans 8.0.1.app/Contents/Resources/NetBeans/webcommon/bin::/Users/RedPencil/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Sep 29, 2014 1:15:49 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 1:15:49 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 1:15:49 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 834 ms
+Sep 29, 2014 1:15:49 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Sep 29, 2014 1:15:49 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.55
+Sep 29, 2014 1:15:49 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /Users/RedPencil/Dropbox/SE452/Tomcat/conf/Catalina/localhost/Test1.xml
+Sep 29, 2014 1:15:50 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor /Users/RedPencil/Dropbox/SE452/Tomcat/conf/Catalina/localhost/Test1.xml has finished in 1,010 ms
+Sep 29, 2014 1:15:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/docs
+Sep 29, 2014 1:15:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/docs has finished in 87 ms
+Sep 29, 2014 1:15:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/examples
+Sep 29, 2014 1:15:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/examples has finished in 474 ms
+Sep 29, 2014 1:15:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/host-manager
+Sep 29, 2014 1:15:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/host-manager has finished in 114 ms
+Sep 29, 2014 1:15:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/manager
+Sep 29, 2014 1:15:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/manager has finished in 115 ms
+Sep 29, 2014 1:15:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/ROOT
+Sep 29, 2014 1:15:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/RedPencil/Dropbox/SE452/Tomcat/webapps/ROOT has finished in 123 ms
+Sep 29, 2014 1:15:51 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 1:15:51 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 1:15:51 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2060 ms
+Sep 29, 2014 1:16:03 PM com.srvl2 processRequest
+SEVERE: null
+java.sql.SQLException: No suitable driver found for jdbc:hsqldb:hsql://localhost/mydb
+	at java.sql.DriverManager.getConnection(DriverManager.java:689)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.srvl2.processRequest(srvl2.java:54)
+	at com.srvl2.doGet(srvl2.java:82)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1070)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:314)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+Sep 29, 2014 1:21:12 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Sep 29, 2014 1:21:12 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 1:21:12 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 1:21:12 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Sep 29, 2014 1:21:12 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 1:21:12 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Sep 29, 2014 1:21:12 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Sep 29, 2014 1:21:12 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
