@@ -3,5 +3,10 @@ DePaul-SE452-master/L2-persistence/sql/db/mydb.properties
 /TestProject/nbproject/private/
 /TestProject/build/
 /TestProject/target/
+<<<<<<< HEAD
 /WebApplication1/nbproject/private/
 /mavenproject1/target/
+=======
+/MyOnlineStore/target/
+/WebApplication1/nbproject/private/
+>>>>>>> FETCH_HEAD
