@@ -1,8 +1,0 @@
-Sep 28, 2014 8:39:55 PM org.apache.catalina.core.ApplicationContext log
-INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
-Sep 28, 2014 8:39:55 PM org.apache.catalina.core.ApplicationContext log
-INFO: Manager: init: Global resources are available
-Sep 28, 2014 8:39:55 PM org.apache.catalina.core.ApplicationContext log
-INFO: Manager: list: Listing contexts for virtual host 'localhost'
-Sep 28, 2014 8:39:55 PM org.apache.catalina.core.ApplicationContext log
-INFO: Manager: list: Listing contexts for virtual host 'localhost'
