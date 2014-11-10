@@ -44,7 +44,7 @@ public class ControllerServlet extends HttpServlet {
         if (userPath.equals("/products")) {
             // TODO: Implement category request
 
-        // if cart page is requested
+            // if cart page is requested
         } else if (userPath.equals("/viewCart")) {
             // TODO: Implement cart page request
 
