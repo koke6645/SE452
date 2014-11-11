@@ -43,6 +43,8 @@ public class ControllerServlet extends HttpServlet {
         // if category page is requested
         if (userPath.equals("/products")) {
             // TODO: Implement category request
+            
+            //java.util.List<TbProduct> prods = ... ;
 
             // if cart page is requested
         } else if (userPath.equals("/viewCart")) {
