@@ -5,7 +5,7 @@
     Created on : Nov 3, 2014, 5:33:01 PM
     Author     : RedPencil
 --%>
-
+<%--
 <sql:query var="categories" dataSource="jdbc/mydb">
     SELECT * FROM TB_CATEGORY
 </sql:query>
@@ -19,11 +19,11 @@
     SELECT * FROM TB_PRODUCT WHERE CATID = ?
     <sql:param value="${pageContext.request.queryString}"/>
 </sql:query>
-    
+--%>    
             <div id="category">
                 <h3>Category</h3>
                 <ul>
-                    <c:forEach var="category" items="${categories.rows}">  
+                    <c:forEach var="category" items="${categories}">  
                         <li><a href="products?${category.catid}">${category.catname}</a></li>
                     </c:forEach>
                 </ul>

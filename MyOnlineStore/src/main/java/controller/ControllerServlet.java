@@ -5,13 +5,16 @@
  */
 package controller;
 
+import entity.TbCategory;
 import java.io.IOException;
 import java.io.PrintWriter;
+import javax.ejb.EJB;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import session.TbCategoryFacade;
 
 /**
  *
@@ -27,6 +30,14 @@ import javax.servlet.http.HttpServletResponse;
                      "/purchase",})
 public class ControllerServlet extends HttpServlet {
 
+    @EJB
+    private TbCategoryFacade categoryFacade;
+    
+    @Override
+    public void init() throws ServletException {
+        getServletContext().setAttribute("categories", categoryFacade.findAll());
+    }
+    
     /**
      * Handles the HTTP <code>GET</code> method.
      * @param request servlet request
@@ -39,12 +50,19 @@ public class ControllerServlet extends HttpServlet {
     throws ServletException, IOException {
 
         String userPath = request.getServletPath();
-
+        TbCategory selectedCategory;
+                
         // if category page is requested
         if (userPath.equals("/products")) {
             // TODO: Implement category request
             
-            //java.util.List<TbProduct> prods = ... ;
+            String categoryId = request.getQueryString();
+            
+            if (categoryId != null) {
+                selectedCategory = categoryFacade.find(Integer.parseInt(categoryId));
+                
+                request.setAttribute("selectedCategory", selectedCategory);
+            }
 
             // if cart page is requested
         } else if (userPath.equals("/viewCart")) {
