@@ -16,7 +16,7 @@ import javax.persistence.PersistenceContext;
  */
 @Stateless
 public class TbEmployeeFacade extends AbstractFacade<TbEmployee> {
-    @PersistenceContext(unitName = "com.myOnlineStore_MyOnlineStore_war_1.0-SNAPSHOTPU")
+    @PersistenceContext(unitName = "mypersis")
     private EntityManager em;
 
     @Override
