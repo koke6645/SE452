@@ -30,9 +30,9 @@
             </div>
             
             <div id="itemList">
-                <h3 class="smallText">${selectedCategory.rows[0].catname}</h3>
+                <h3 class="smallText">${selectedCategory.catname}</h3>
                 <table id="productTable">
-                    <c:forEach var="product" items="${categoryProducts.rows}" varStatus="iter">
+                    <c:forEach var="product" items="${categoryProducts}" varStatus="iter">
                         <tr class="${((iter.index % 2) == 0) ? 'lightBlue' : 'white'}">
                             <td>
                                 <img src="#" alt="product image">

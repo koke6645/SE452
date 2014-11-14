@@ -5,16 +5,21 @@
  */
 package controller;
 
+import cart.ShoppingCart;
 import entity.TbCategory;
+import entity.TbProduct;
 import java.io.IOException;
-import java.io.PrintWriter;
+import java.util.Collection;
 import javax.ejb.EJB;
+import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 import session.TbCategoryFacade;
+import session.TbProductFacade;
 
 /**
  *
@@ -30,11 +35,20 @@ import session.TbCategoryFacade;
                      "/purchase",})
 public class ControllerServlet extends HttpServlet {
 
+    private String surcharge;
+    
     @EJB
     private TbCategoryFacade categoryFacade;
+    @EJB
+    private TbProductFacade productFacade;
     
     @Override
-    public void init() throws ServletException {
+    public void init(ServletConfig servletConfig) throws ServletException {
+        
+        super.init(servletConfig);
+        
+        surcharge = servletConfig.getServletContext().getInitParameter("deliverySurcharge");
+
         getServletContext().setAttribute("categories", categoryFacade.findAll());
     }
     
@@ -50,11 +64,12 @@ public class ControllerServlet extends HttpServlet {
     throws ServletException, IOException {
 
         String userPath = request.getServletPath();
+        HttpSession session = request.getSession();
         TbCategory selectedCategory;
+        Collection<TbProduct> categoryProducts;
                 
         // if category page is requested
         if (userPath.equals("/products")) {
-            // TODO: Implement category request
             
             String categoryId = request.getQueryString();
             
@@ -62,24 +77,35 @@ public class ControllerServlet extends HttpServlet {
                 selectedCategory = categoryFacade.find(Integer.parseInt(categoryId));
                 
                 request.setAttribute("selectedCategory", selectedCategory);
+                
+                categoryProducts = selectedCategory.getTbProductCollection();
+                
+                request.setAttribute("categoryProducts", categoryProducts);
             }
 
             // if cart page is requested
         } else if (userPath.equals("/viewCart")) {
-            // TODO: Implement cart page request
 
+            String clear = request.getParameter("clear");
+
+            if ((clear != null) && clear.equals("true")) {
+
+                ShoppingCart cart = (ShoppingCart) session.getAttribute("cart");
+                cart.clear();
+            }
+            
             userPath = "/cart";
 
         // if checkout page is requested
         } else if (userPath.equals("/checkout")) {
-            // TODO: Implement checkout page request
 
-        // if user switches language
-        } else if (userPath.equals("/chooseLanguage")) {
-            // TODO: Implement language request
+            ShoppingCart cart = (ShoppingCart) session.getAttribute("cart");
+
+            // calculate total
+            cart.calculateTotal(surcharge);
 
         }
-
+        
         // use RequestDispatcher to forward request internally
         String url = "/WEB-INF/view" + userPath + ".jsp";
 
@@ -102,20 +128,48 @@ public class ControllerServlet extends HttpServlet {
     throws ServletException, IOException {
 
         String userPath = request.getServletPath();
-
+        HttpSession session = request.getSession();
+        ShoppingCart cart = (ShoppingCart) session.getAttribute("cart");
+        
         // if addToCart action is called
         if (userPath.equals("/addToCart")) {
-            // TODO: Implement add product to cart action
+
+            // if user is adding item to cart for first time
+            // create cart object and attach it to user session
+            if (cart == null) {
+
+                cart = new ShoppingCart();
+                session.setAttribute("cart", cart);
+            }
+
+            // get user input from request
+            String productId = request.getParameter("productId");
+
+            if (!productId.isEmpty()) {
+
+                TbProduct product = productFacade.find(Integer.parseInt(productId));
+                cart.addItem(product);
+            }
+
+            userPath = "/products";
 
         // if updateCart action is called
         } else if (userPath.equals("/updateCart")) {
-            // TODO: Implement update cart action
+
+            // get input from request
+            String productId = request.getParameter("productId");
+            String quantity = request.getParameter("quantity");
+
+            TbProduct product = productFacade.find(Integer.parseInt(productId));
+            cart.update(product, quantity);
+
+            userPath = "/cart";
 
         // if purchase action is called
-        } else if (userPath.equals("/purchase")) {
+        } else if (userPath.equals("/checkout")) {
             // TODO: Implement purchase action
 
-            userPath = "/confirmation";
+            userPath = "/checkout";
         }
 
         // use RequestDispatcher to forward request internally
