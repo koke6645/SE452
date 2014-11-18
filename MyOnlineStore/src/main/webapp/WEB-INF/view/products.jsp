@@ -5,21 +5,7 @@
     Created on : Nov 3, 2014, 5:33:01 PM
     Author     : RedPencil
 --%>
-<%--
-<sql:query var="categories" dataSource="jdbc/mydb">
-    SELECT * FROM TB_CATEGORY
-</sql:query>
-    
-<sql:query var="selectedCategory" dataSource="jdbc/mydb">
-    SELECT CATNAME FROM TB_CATEGORY WHERE CATID = ?
-    <sql:param value="${pageContext.request.queryString}"/>
-</sql:query>
-    
-<sql:query var="categoryProducts" dataSource="jdbc/mydb">
-    SELECT * FROM TB_PRODUCT WHERE CATID = ?
-    <sql:param value="${pageContext.request.queryString}"/>
-</sql:query>
---%>    
+ 
             <div id="category">
                 <h3>Category</h3>
                 <ul>

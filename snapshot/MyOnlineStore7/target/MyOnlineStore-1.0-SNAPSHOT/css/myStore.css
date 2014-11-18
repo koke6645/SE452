@@ -1,0 +1,269 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 3, 2014, 5:35:35 PM
+    Author     : RedPencil
+*/
+
+
+/* html tags */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+hr {
+    border: 0;
+    background-color: #333;
+    height: 1px;
+    width: 95%;
+}
+
+table {
+    margin: 0 20px 20px;
+    border-spacing: 0;
+    text-align: center;
+    border: solid 1px #f5eabe;
+}
+
+/* general styles */
+#main { background: white }
+
+.lightBlue { background-color: #edf8f7 }
+
+.white { background-color: #fff }
+
+.smallText { font-size: small }
+
+.bubble {
+    font-weight: bold;
+    background-color: #ccc;
+    padding: 10px;
+    margin: 20px;
+    color: inherit;
+}
+
+/* header styles */
+#header {
+    height: 150px;
+    background: #aaa;
+}
+
+#header h1 {
+    float: left;
+    margin: 40px 0 0 70px;
+    font-size: 60px;
+    color: #333;
+}
+
+#logo {
+    height: 120px;
+    width: 120px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+/* top-bar styles */
+#nav {
+    width: 100%;
+    float: left;
+    padding: 0;
+    list-style: none;
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #ccc; 
+    border-top: 1px solid #ccc; 
+}
+
+#nav li {
+    float: left; 
+}
+
+#nav li a {
+    display: block;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #069;
+    border-right: 1px solid #ccc; 
+}
+
+#nav li a:hover {
+    color: #c00;
+    background-color: #fff; 
+}
+
+/* footer styles */
+#footer {
+    height: 60px;
+    clear: left;
+    background: #aaa;
+}
+
+/* index page styles */
+#announce {
+    height: 550px;
+    width: 100%;
+    float: left;
+    background: #ddd;
+}
+
+/* products page styles */
+#category {
+    width: 190px;
+    margin: 20px;
+    float: left;
+}
+
+#category h3 {
+    font: bold 13px Verdana;
+    color: white;
+    background: #606060;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    padding: 7px 0px 7px 0px;
+}
+
+#category ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+#category li {
+    padding-bottom: 2px;
+}
+
+#category li a{
+    font-size: 14px;
+    font-weight: bold; 
+    text-align: left;
+    color: black;
+    background: #E9E9E9;
+    display: block;
+    padding: 5px 0px 5px 30px;
+    line-height: 17px;
+    text-decoration: none;
+}
+
+#category li a:hover{
+    color: white;
+    background: black;
+}
+
+#itemList {
+    width: 770px;   
+    background: #ddd;
+    float: left;
+}
+
+#productTable { width: 730px }
+
+#productTable tr { height: 150px }
+
+#productTable td { width: 200px }
+
+/* cart page styles */
+#cartTable { width: 960px }
+
+#cartTable td {
+    width: 145px;
+    height: 90px;
+}
+
+#actionBar {
+    margin: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+#subtotal { margin: 10px 0 20px 250px }
+
+/* checkout page styles */
+#checkoutTable {
+    width: 960px;
+    padding: 10px;
+    background-color: #f5eabe;
+}
+
+#checkoutTable td {
+    vertical-align: top;
+    text-align: right;
+    margin: 5px;
+}
+
+.inputField { 
+    float: left;
+}
+
+#infoBox { padding: 10px 25px 0 460px }
+
+
+/* confirmation page styles */
+#confirmationText {
+    margin: 0 20px 20px;
+    padding: 10px;
+    background-color: #f5eabe;
+    float: left;
+    border-radius: 4px;
+}
+
+.summaryColumn {
+    margin-top: 15px;
+    width: 50%;
+    float: left;
+}
+
+.detailsTable { text-align: left }
+
+.detailsTable th { padding: 5px 10px }
+
+.detailsTable td {
+    padding: 5px 10px 5px 20px;
+    font-size: small;
+    font-family: "Courier New", courier, monospace;
+}
+
+#orderSummaryTable { width: 100% }
+
+#deliveryAddressTable {
+    width: 70%;
+    margin-left: 15%;
+}
+
+#deliveryAddressTable td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.quantityColumn {
+    text-align: center;
+    width: 62px;
+}
+
+.confirmationPriceColumn {
+    width: 90px;
+    font-weight: normal;
+}
+
+#deliverySurchargeCellLeft {
+    text-align: right;
+    padding: 0;
+}
+
+#deliverySurchargeCellRight { padding: 0 20px }
+
+#totalCellLeft {
+    text-align: right;
+    padding: 0;
+}
+
+#totalCellRight { padding: 0 20px }
+
+#dateProcessedRow { padding: 2px 0 10px 20px }

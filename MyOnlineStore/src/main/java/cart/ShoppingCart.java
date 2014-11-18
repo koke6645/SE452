@@ -39,7 +39,6 @@ public class ShoppingCart {
 
         short qty = -1;
 
-        // cast quantity as short
         qty = Short.parseShort(quantity);
 
         if (qty >= 0) {
@@ -51,10 +50,8 @@ public class ShoppingCart {
                 if (scItem.getProduct().getProid() == product.getProid()) {
 
                     if (qty != 0) {
-                        // set item quantity to new value
                         scItem.setQuantity(qty);
                     } else {
-                        // if quantity equals 0, save item and break
                         item = scItem;
                         break;
                     }
@@ -62,7 +59,6 @@ public class ShoppingCart {
             }
 
             if (item != null) {
-                // remove from cart
                 items.remove(item);
             }
         }
@@ -98,15 +94,11 @@ public class ShoppingCart {
         return amount;
     }
 
-    public synchronized void calculateTotal(String surcharge) {
+    public synchronized void calculateTotal() {
 
         double amount = 0;
 
-        // cast surcharge as double
-        double s = Double.parseDouble(surcharge);
-
         amount = this.getSubtotal();
-        amount += s;
 
         total = amount;
     }

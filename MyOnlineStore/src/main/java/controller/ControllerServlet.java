@@ -18,6 +18,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
+import session.OrderManager;
 import session.TbCategoryFacade;
 import session.TbProductFacade;
 
@@ -34,21 +35,19 @@ import session.TbProductFacade;
                      "/checkout",
                      "/purchase",})
 public class ControllerServlet extends HttpServlet {
-
-    private String surcharge;
     
     @EJB
     private TbCategoryFacade categoryFacade;
     @EJB
     private TbProductFacade productFacade;
+    @EJB
+    private OrderManager orderManager;
     
     @Override
     public void init(ServletConfig servletConfig) throws ServletException {
         
         super.init(servletConfig);
         
-        surcharge = servletConfig.getServletContext().getInitParameter("deliverySurcharge");
-
         getServletContext().setAttribute("categories", categoryFacade.findAll());
     }
     
@@ -68,7 +67,6 @@ public class ControllerServlet extends HttpServlet {
         TbCategory selectedCategory;
         Collection<TbProduct> categoryProducts;
                 
-        // if category page is requested
         if (userPath.equals("/products")) {
             
             String categoryId = request.getQueryString();
@@ -83,7 +81,6 @@ public class ControllerServlet extends HttpServlet {
                 request.setAttribute("categoryProducts", categoryProducts);
             }
 
-            // if cart page is requested
         } else if (userPath.equals("/viewCart")) {
 
             String clear = request.getParameter("clear");
@@ -96,17 +93,14 @@ public class ControllerServlet extends HttpServlet {
             
             userPath = "/cart";
 
-        // if checkout page is requested
         } else if (userPath.equals("/checkout")) {
 
             ShoppingCart cart = (ShoppingCart) session.getAttribute("cart");
 
-            // calculate total
-            cart.calculateTotal(surcharge);
+            cart.calculateTotal();
 
         }
         
-        // use RequestDispatcher to forward request internally
         String url = "/WEB-INF/view" + userPath + ".jsp";
 
         try {
@@ -131,18 +125,14 @@ public class ControllerServlet extends HttpServlet {
         HttpSession session = request.getSession();
         ShoppingCart cart = (ShoppingCart) session.getAttribute("cart");
         
-        // if addToCart action is called
         if (userPath.equals("/addToCart")) {
 
-            // if user is adding item to cart for first time
-            // create cart object and attach it to user session
             if (cart == null) {
 
                 cart = new ShoppingCart();
                 session.setAttribute("cart", cart);
             }
 
-            // get user input from request
             String productId = request.getParameter("productId");
 
             if (!productId.isEmpty()) {
@@ -153,10 +143,8 @@ public class ControllerServlet extends HttpServlet {
 
             userPath = "/products";
 
-        // if updateCart action is called
         } else if (userPath.equals("/updateCart")) {
 
-            // get input from request
             String productId = request.getParameter("productId");
             String quantity = request.getParameter("quantity");
 
@@ -165,14 +153,35 @@ public class ControllerServlet extends HttpServlet {
 
             userPath = "/cart";
 
-        // if purchase action is called
-        } else if (userPath.equals("/checkout")) {
-            // TODO: Implement purchase action
+        } else if (userPath.equals("/purchase")) {
 
-            userPath = "/checkout";
+            if (cart != null) {
+                String first = request.getParameter("first");
+                String last = request.getParameter("last");
+                String address = request.getParameter("address");
+                String state = request.getParameter("state");
+                String zip = request.getParameter("zip");
+                String email = request.getParameter("email");
+                String phone = request.getParameter("phone");
+                String creditcard = request.getParameter("creditcard");
+                String cardexp = request.getParameter("cardexp");   
+                
+                int orderId = orderManager.placeOrder(first, last, address, state, zip, email, phone, creditcard, cardexp, cart);
+                if (orderId != 0) {
+
+                    cart = null;
+
+                    session.invalidate();
+
+                    userPath = "/confirmation";
+
+                } else {
+                    userPath = "/checkout";
+                }
+            }   
+
         }
 
-        // use RequestDispatcher to forward request internally
         String url = "/WEB-INF/view" + userPath + ".jsp";
 
         try {

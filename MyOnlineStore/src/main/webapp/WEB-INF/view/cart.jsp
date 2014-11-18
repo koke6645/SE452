@@ -63,18 +63,7 @@
                     <c:if test="${!empty cart && cart.numberOfItems != 0}">
                         <a href="viewCart?clear=true" class="bubble hMargin">clear cart</a>
                     </c:if>
-                    <%--
-                    <c:set var="backtoshop">
-                        <c:choose>
-                            <c:when test="${!empty selectedCategory}">
-                                category
-                            </c:when>
-                            <c:otherwise>
-                                index.jsp
-                            </c:otherwise>
-                        </c:choose>
-                    </c:set>
-                    --%>
+
                     <a href="products" class="bubble hMargin">continue shopping</a>
 
                     <c:if test="${!empty cart && cart.numberOfItems != 0}">
